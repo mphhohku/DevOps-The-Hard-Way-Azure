@@ -1,4 +1,4 @@
-name     = "devopsthehardway"
+name     = "mhdevopsthehardway"
 location = "eastasia"
 
 kubernetes_version         = "1.23.3"
