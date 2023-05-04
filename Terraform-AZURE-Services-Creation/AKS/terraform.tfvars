@@ -1,5 +1,5 @@
 name     = "devopsthehardway"
-location = "uksouth"
+location = "eastasia"
 
 kubernetes_version         = "1.23.3"
 agent_count                = 3
